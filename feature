@@ -4,6 +4,6 @@ commit 3
 
 conflict1
 feature2
-name1
+name3
 
 
